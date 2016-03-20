@@ -1,0 +1,9 @@
+**/FileSorter.Lib/bin/**
+**/FileSorter.TestHarness/bin/**
+**/FileSorter.UI/bin/**
+**/FileSorter.Lib/obj/**
+**/FileSorter.TestHarness/obj/**
+**/FileSorter.UI/obj/**
+**/Xorter0.9Setup/**
+**/.sonar
+packages

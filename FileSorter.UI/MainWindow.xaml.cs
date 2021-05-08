@@ -12,6 +12,7 @@ namespace FileSorter.UI
     /// </summary>
     public partial class MainWindow : Window
     {
+        //edit1
         private string sortType = string.Empty;
         private string _targetFolder;
         private SortProcessor processor;
